@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "620086253759",
+    "firebase_url": "https://pallocator-8fe3e.firebaseio.com",
+    "project_id": "pallocator-8fe3e",
+    "storage_bucket": "pallocator-8fe3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620086253759:android:ea5e3506b5b7f662bc4e0a",
+        "android_client_info": {
+          "package_name": "com.jaMocha.PalLocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620086253759-dbjjqmf7175ccm25fi0so485tdrvjf3h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jaMocha.PalLocator",
+            "certificate_hash": "85371bfc2773d9e31d56a4521f70523268c3115b"
+          }
+        },
+        {
+          "client_id": "620086253759-hiq1ne1fuac6r582hfk5g31el905bdtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgVVdYFiPflbahb3oTxFrpBWJyFcH7o18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620086253759-hiq1ne1fuac6r582hfk5g31el905bdtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
